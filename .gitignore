@@ -4,6 +4,7 @@
 /server/node_modules
 /client/node_modules
 
+
 /.pnp
 .pnp.js
 users.txt
@@ -16,6 +17,7 @@ users.txt
 /build
 
 # misc
+.env
 .DS_Store
 .env.local
 .env.development.local
