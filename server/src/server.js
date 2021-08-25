@@ -1,3 +1,4 @@
+global.fetch = require("node-fetch");
 const http = require("http");
 const path = require("path");
 require("dotenv").config({ path: path.join(__dirname, ".", ".env") });
